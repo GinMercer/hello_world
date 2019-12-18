@@ -11,5 +11,5 @@ Bachelor of Science(Degree Stream)
 
   Computer Science(Major)
 
-   Visualization and Analytics(Concentration)
+    Visualization and Analytics(Concentration)
 
